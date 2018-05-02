@@ -1,4 +1,4 @@
-# CruiseReservationWebApp
+# Cruise Reservation Web App
 ## Overall Project Summary
 ASP.NET application that provides on-line cruise reservations for a cruise line. The application consists of web forms and provides navigation between them through the use of buttons and links.
 When the application first opens, the traveller will be presented with a login screen. The traveller will provide his/her Oracle login information. The application will validate the credentials by logging into Oracle. After logging in, the traveller is presented with a screen that allows them to select the type of operation they want to perform: (1) View existing cruise reservations, (2) Reserve a cruise, (3) Manage the cruise destinations, or (4) Logout.
